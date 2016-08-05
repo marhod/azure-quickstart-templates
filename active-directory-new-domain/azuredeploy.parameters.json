@@ -6,10 +6,10 @@
       "value": "azureuser"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "isacs054M"
     },
     "domainName": {
-      "value": "mydomain.local"
+      "value": "mrhodes.net"
     },
     "dnsPrefix": {
       "value": "GEN-UNIQUE"
